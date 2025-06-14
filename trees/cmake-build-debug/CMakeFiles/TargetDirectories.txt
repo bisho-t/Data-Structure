@@ -1,0 +1,4 @@
+C:/Users/lenovo/Downloads/trees/cmake-build-debug/CMakeFiles/trees.dir
+C:/Users/lenovo/Downloads/trees/cmake-build-debug/CMakeFiles/RBtree.dir
+C:/Users/lenovo/Downloads/trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Downloads/trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir

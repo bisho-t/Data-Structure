@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "data_structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Circular_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Circular_Linked_List-Debug-824985048959b9a70015.json",
+					"name" : "Circular_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Doubly_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Doubly_Linked_List-Debug-f63b6f157fde95ba8c24.json",
+					"name" : "Doubly_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Queue-Debug-817e0b993328f2eb326a.json",
+					"name" : "Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RBtree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RBtree-Debug-b72fc2da8e7fb76833bc.json",
+					"name" : "RBtree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Singly_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Singly_Linked_List-Debug-e3fdea94d994a2709fc0.json",
+					"name" : "Singly_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sorting_Algorithms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sorting_Algorithms-Debug-5c49f6443d04ffd2e63d.json",
+					"name" : "Sorting_Algorithms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack-Debug-4430f62deb8386873380.json",
+					"name" : "stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trees::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trees-Debug-1bd0a451e787b66cc2a1.json",
+					"name" : "trees",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lenovo/Downloads/DataStructure/data_structure/cmake-build-debug",
+		"source" : "C:/Users/lenovo/Downloads/DataStructure/data_structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

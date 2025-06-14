@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="data_structure" targetName="Circular_Linked_List" />
+      <config projectName="data_structure" targetName="Queue" />
+      <config projectName="data_structure" targetName="Singly_Linked_List" />
+      <config projectName="data_structure" targetName="stack" />
+      <config projectName="data_structure" targetName="RBtree" />
+      <config projectName="data_structure" targetName="trees" />
+      <config projectName="data_structure" targetName="Sorting_Algorithms" />
+      <config projectName="data_structure" targetName="Doubly_Linked_List" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a574665-88be-4d31-9f37-d6070f072194" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/20220081_20220095_20220055_20220135_20220088_A1_G16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cache-v2-2d7f8416b61670a9e8ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-54ffce7139fc75338c96.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1f51dc6b0d3ad8e0abfd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/index-2025-06-14T11-08-22-0164.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-circular_linked_list-Debug-d392723e6aa8c923c6f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-doubly_linked_list-Debug-151d93bbaf00536c31d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-queue-Debug-b6610a8d994333e7ad32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-single_linked_list-Debug-9f05530ec5a71cf9779e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-sorting_algorithms-Debug-261e7a913b418515df99.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-stack-Debug-0d55cc3718d5d9a5b2aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-3fb5206d9914dd960965.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/circular_linked_list.dir/data_structure/Circular_Linked_List.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/circular_linked_list.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List/Circular_Linked_List.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List/Doubly_Linked_List.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List/Singly_Linked_List.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedByGPA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedByName.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/Queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/AVL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/BST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/DataStructure.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Heap/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Heap/MinHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Item.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Red_Black_tree/RBtree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Red_Black_tree/RedBlackTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Red_Black_tree/RedBlackTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/cache-v2-47e8a5dc980e7ade4bd9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7e754f07cbb4689584a9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fc8487ceae4aaa3b6762.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/index-2025-06-14T16-00-56-0804.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/target-RBtree-Debug-1f4da8653923b1c34619.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/target-trees-Debug-8a671b46bb982904f174.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-3fb5206d9914dd960965.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/CMakeFiles/trees.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/items.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/cmake-build-debug/trees.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Linked_List/Circular_Linked_List.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sorting_Algorithms.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/stack/Stack.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yVNnIws1wgry67Uv50iT6zkeNc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Circular_Linked_List.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lenovo/Downloads/DataStructure/data_structure",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure" />
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure\cmake-build-debug" />
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure\queue" />
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure\stack" />
+      <recent name="C:\Users\lenovo\Downloads\DataStructure\data_structure\Linked_List" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Circular_Linked_List">
+    <configuration name="Circular_Linked_List" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Circular_Linked_List" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Circular_Linked_List">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Doubly_Linked_List" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Doubly_Linked_List" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Doubly_Linked_List">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBtree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="RBtree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="RBtree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singly_Linked_List" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Singly_Linked_List" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Singly_Linked_List">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting_Algorithms" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="Sorting_Algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="Sorting_Algorithms">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="stack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trees" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="trees">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Circular_Linked_List" />
+      <item itemvalue="CMake Application.Doubly_Linked_List" />
+      <item itemvalue="CMake Application.Queue" />
+      <item itemvalue="CMake Application.RBtree" />
+      <item itemvalue="CMake Application.Singly_Linked_List" />
+      <item itemvalue="CMake Application.Sorting_Algorithms" />
+      <item itemvalue="CMake Application.stack" />
+      <item itemvalue="CMake Application.trees" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a574665-88be-4d31-9f37-d6070f072194" name="Changes" comment="" />
+      <created>1749915946987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749915946987</updated>
+      <workItem from="1749915948802" duration="630000" />
+      <workItem from="1749917486427" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
