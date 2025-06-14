@@ -12,6 +12,7 @@ Implemented Data Structures:
  Binary Search Tree (BST)
  AVL Tree (Self-Balancing BST)
  Red-Black Tree
+ Skip List
  Min Heap
  Max Heap
 
