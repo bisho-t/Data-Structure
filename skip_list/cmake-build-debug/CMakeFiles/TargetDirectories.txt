@@ -1,0 +1,4 @@
+C:/Users/lenovo/CLionProjects/skip_list/cmake-build-debug/CMakeFiles/skipList.dir
+C:/Users/lenovo/CLionProjects/skip_list/cmake-build-debug/CMakeFiles/gameManagerMain.dir
+C:/Users/lenovo/CLionProjects/skip_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/CLionProjects/skip_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
